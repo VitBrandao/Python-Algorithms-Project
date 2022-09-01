@@ -25,4 +25,4 @@ def is_anagram(first_string, second_string):
     return order_first == order_second
 
 
-print(is_anagram('Amor', 'rOmA'))
+# print(is_anagram('Amor', 'rOmA'))
