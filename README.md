@@ -7,7 +7,7 @@
 
 # Requisitos Obrigatórios
 
-## 1 - Número de estudantes estudando no mesmo horário (Algoritmo de busca)
+## 1 - Número de estudantes estudando no mesmo horário (Algoritmo de busca).
 
 Você trabalha na maior empresa de educação do Brasil. Certo dia, a pessoa Product Manager `(PM)` quer saber qual horário tem a maior quantidade de pessoas estudantes acessando o conteúdo da plataforma. Com esse dado em mãos, a pessoa PM saberá qual é o melhor horário para disponibilizar os materiais de estudo para ter o maior engajamento possível.
 
